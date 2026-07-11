@@ -1,0 +1,4 @@
+# Project Requirements & Stack
+# Target Runtime environment: Java JDK 11 or higher
+# Local DBMS Simulation: Flat-file Serialization (infrastructure_data.txt)
+# IDE Compatibility: VS Code with Java Extension Pack
